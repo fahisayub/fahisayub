@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'm Muhammed Fahiz
+![image](https://user-images.githubusercontent.com/32778039/181908163-71128843-b1a9-4dba-aa46-dce114eb17b1.png)
+
 <!--
 **fahisayub/fahisayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
