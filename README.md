@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Muhammed Fahiz
-![image](https://www.canva.com/design/DAFH47YdYAw/Q1HlUQx5NY05-AidaLgpww/view?utm_content=DAFH47YdYAw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![image](github_banner.png)
 <!--
 **fahisayub/fahisayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
