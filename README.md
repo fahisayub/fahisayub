@@ -6,6 +6,7 @@ Iam an Aspiring Web Developer, always curious about new problems(i use to see it
 
 - 📫 How to reach me **fahisayub@gmail.com**
 - 🌱 I’m currently learning **full stack web development**
+- 👨‍💻 Know more about me [My Portfolio](https://fahisayub.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
