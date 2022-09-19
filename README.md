@@ -10,7 +10,7 @@ Iam an Aspiring Web Developer, always curious about new problems(i use to see it
 >
 >that helps me to execute my mission. 
 >
->This gives me the confidence to have a solution for each problem that comes to me because having a wider perspective helps me to think creatively, and try new approaches to build new products and services that benefit the people around me. and I really enjoy building things whether it is hardware or software or service. I know I am a beginner but I have enough thrust to go up the trajectory.
+>This gives me the confidence to have a solution for each problem that comes to me because having a wider perspective helps me to think creatively, and try new approaches to build new products and services that benefit the people around me. and I really enjoy building things whether it is hardware or software or service.
 
 And I believe this journey will continue by exploring more, with the help of God for creating a better tomorrow and never having a plan to settle.
 
