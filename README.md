@@ -16,7 +16,7 @@ Iam an Aspiring Web Developer, always curious about new problems(i use to see it
 
 >As a simple human, over the past 6 years, I have been working towards improving my skills for executing my mission. I believe my mission is to enhance efficiency and thereby enhance lives on the planet. Wherever I am, whatever I do, I have a clear sense of why. which drives me ahead no matter how many times I fall, this leads me to acquire knowledge in engineering and acquiring skills, such as:
 >
->> **React | Redux | Chakra-UI | HTML | CSS | JavaScript | CLI Bash | Flutter | Dart | Firebase | MIT app inventor | Arduino | Fusion360 | AutoCAD | SolidWorks | ANSYS | Adobe XD | Inkscape | Illustrator | Figma**
+>> **React | Redux | Chakra-UI | Node.js | Express | MongoDB | Mongoose | HTML | CSS | JavaScript | CLI Bash | Flutter | Dart | Firebase | MIT app inventor | Arduino | Fusion360 | AutoCAD | SolidWorks | ANSYS | Adobe XD | Inkscape | Illustrator | Figma**
 >
 >that helps me to execute my mission. 
 >
