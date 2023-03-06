@@ -2,7 +2,7 @@
 ![image](github_banner.png)
 
 
-Iam an Aspiring Web Developer, always curious about new problems(i use to see it as an opportunities) and bringing the best solution with an interdisciplinary collaboration. I love to work with team, which brings me additional energy. Working with a great team is always a pleasure.
+Iam an Aspiring Full Stack Web Developer, always curious about new problems(i use to see it as an opportunities) and bringing the best solution with an interdisciplinary collaboration. I love to work with team, which brings me additional energy. Working with a great team is always a pleasure.
 
 - 📫 How to reach me **fahisayub@gmail.com**
 - 🌱 I’m currently learning **full stack web development**
@@ -14,13 +14,27 @@ Iam an Aspiring Web Developer, always curious about new problems(i use to see it
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-fahiz-p-a-62804515b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-fahiz-p-a-62804515b/" height="30" width="40" /></a>
 </p>
 
->As a simple human, over the past 6 years, I have been working towards improving my skills for executing my mission. I believe my mission is to enhance efficiency and thereby enhance lives on the planet. Wherever I am, whatever I do, I have a clear sense of why. which drives me ahead no matter how many times I fall, this leads me to acquire knowledge in engineering and acquiring skills, such as:
+>As an aspiring expert generalist, 💡ideator and a creative problem solver, it’s been nearly a decade that I have been working towards improving and learning new things that I am curious about, to execute those ideas and 🧭explore new possibilities whenever I came across an interesting problem/opportunity ( 💪🏻 I use to see it as an opportunity).  It’s been an exciting journey of experimenting with things that I am curious about.
 >
->> **React | Redux | Chakra-UI | Node.js | Express | MongoDB | Mongoose | HTML | CSS | JavaScript | CLI Bash | Flutter | Dart | Firebase | MIT app inventor | Arduino | Fusion360 | AutoCAD | SolidWorks | ANSYS | Adobe XD | Inkscape | Illustrator | Figma**
+>And other than that I love to read non-fictional 📘books and 🚴‍♂️ cycling as well, but I donated my cycle to a needy, anyway I will buy one soon.
+
+>As a result of this, I got to design and build some projects such as a Sound charger, Gas stove system, Floor cleaning robot, Spizer, Dhaivde, Spisook, and Cloth Dryer etc … currently, I am working on Alriz to address a local issue and Printyok, a long term project.
+
+>Wherever I am, whatever I do, I have a mission. which drives me ahead no matter how many times I fall, this leads me to learn engineering and acquire skills, such as:
+>
+>> - 👉 **HTML | CSS | JavaScript | Typescript | Node.js | Python | Dart | Go | SQL**
+>> - 👉 **React | Redux | Chakra-UI | Express | Mongoose | Next.js | ReactNative | Django | Flutter**
+>> - 👉 **MongoDB | Firebase | Redis**
+>> - 👉 **Git | CLI | Bash**
+>> - 👉 **Arduino | NodeMCU**
+>> - 👉 **AdobeXD | Figma | Inkscape | Illustrator**
+>> - 👉 **Fusion360 | AutoCAD | Eagle | SolidWorks | ANSYS | MIT App Inventor**
 >
 >that helps me to execute my mission. 
 >
->This gives me the confidence to have a solution for each problem that comes to me because having a wider perspective helps me to think creatively, and try new approaches to build new products and services that benefit the people around me. and I really enjoy building things whether it is hardware or software or service.
+>All these 🔧 skills and the 🔥 mindset that I have gives me the confidence to go ahead and take calculated risks.
+
+>And as an aspiring expert generalist, I believe having multidisciplinary knowledge helps me improve my perspective of thinking and bring innovative solutions, and try new approaches to 🏗️build new, better products and services that benefit the people around me. And I enjoy making things whether it is hardware or software or service.
 
 And I believe this journey will continue by exploring more, with the help of God for creating a better tomorrow and never having a plan to settle.
 
