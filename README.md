@@ -2,7 +2,7 @@
 ![image](github_banner.png)
 
 
-Iam an Aspiring Full Stack Web Developer, always curious about new problems(i use to see it as an opportunities) and bringing the best solution with an interdisciplinary collaboration. I love to work with team, which brings me additional energy. Working with a great team is always a pleasure.
+#### Iam an Aspiring Full Stack Web Developer, always curious about new problems(i use to see it as an opportunities) and bringing the best solution with an interdisciplinary collaboration. I love to work with team, which brings me additional energy. Working with a great team is always a pleasure.
 
 - 📫 How to reach me **fahisayub@gmail.com**
 - 🌱 I’m currently learning **full stack web development**
